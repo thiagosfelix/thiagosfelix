@@ -1,0 +1,11 @@
+/* ESTRUTURA GERAL */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* PROJETOS*/
+#projetos {
+    display: flex;
+    flex-wrap: wrap;
+}
