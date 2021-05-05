@@ -20,6 +20,10 @@ body {
 
 }
 
+.button:hover {
+    background-color: red;
+}
+
 /* HEADER */
 /* header {
     position: fixed;
@@ -28,7 +32,7 @@ body {
 /* INICIO */
 #inicio {
     height: 100vh;
-    background-color: cyan;
+    background: radial-gradient(closest-corner,gray, black);
     display: flex;
     justify-content: center;
     align-items: center;
